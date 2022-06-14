@@ -1,1 +1,2 @@
-print('Hola Mundo soy juan')
+mi_variable = 'divino'
+print (mi_variable) 
