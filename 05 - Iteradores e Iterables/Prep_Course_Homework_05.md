@@ -1,6 +1,6 @@
 ## Iteradores e iterables
 
-1) A partir de una lista vacía, utilizar un ciclo while para cargar allí números negativos del -15 al -1
+1)c
 
 2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares?
 
